@@ -22,7 +22,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To run the program:
+
+    ruby bin/run
+
+The program welcomes you in and loads.
+The program asks for input to list APIs or exit the program.
+Choosing to list will display the list with corresponding numbers.
+Choose to select a number for more details or exit the program.
+Choosing an API will display the supplied details.
+The program then asks for input to go back to the main menu or exit the program.
+Choosing the main menu will again request input to list the APIs or exit the program.
 
 ## Development
 

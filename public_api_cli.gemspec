@@ -2,7 +2,7 @@ require_relative 'lib/public_api_cli/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "public_api_cli"
-  spec.version       = PublicApiCli::VERSION
+  spec.version       = "1.0"
   spec.authors       = ["Joshua"]
   spec.email         = ["joycejosh7@gmail.com"]
 
